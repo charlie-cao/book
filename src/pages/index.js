@@ -7,6 +7,7 @@ import SEO from '../components/seo'
 
 const IndexPage = () => (
   <Layout>
+    <h1>直接版本控制,构建+部署,完全免费,连域名都可以自定义.还有什么比这个更爽.</h1>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Hi people</h1>
     <p>wo wo wo.</p>
